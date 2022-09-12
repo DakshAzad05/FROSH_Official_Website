@@ -97,7 +97,7 @@ section {
   font-weight: 500;
 }
 
-.block[data-block-section="1"].init {
+.block[data-block-section="2"].init {
   left: calc(100vw - 16rem);
 }
 
